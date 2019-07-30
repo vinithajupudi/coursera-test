@@ -1,0 +1,56 @@
+#header-nav{
+	background-color:gray;
+	margin:0;
+	border: 2px solid black;
+	border-radius: 0;
+}
+
+h2.text-center{
+	margin-top: 80px;
+	margin-bottom: 50px;
+	font-size: 45px;
+	font-style: italic;
+}
+
+#p1,#p2,#p3{
+	font-size:1.5em ;
+	border: 1.5px solid black;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+.container{
+	width: 100%;
+	margin-right: 20px;
+	
+}
+button.navbar-toggle.collapsed{
+	border:1.5px solid black;
+}
+#navbar-brand h1{
+	font-weight: bold;
+}
+
+
+.navbar-header{
+	width: 100%;
+}
+span.icon-bar{
+	margin:5px;
+	color:black;
+}
+li{
+	font-size: 23px;
+	text-align:center;
+	font-weight: bold;
+}
+
+}
+hr{
+	border-color: black;
+	
+}
+h3.text-center{
+	font-size: 26px;
+	font-weight: bold;
+}
